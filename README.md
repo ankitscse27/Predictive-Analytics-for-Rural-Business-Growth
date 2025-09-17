@@ -110,8 +110,9 @@ Replace your-github-username with your actual GitHub username.
 
 Bash
 
-git clone https://github.com/ankitscse27/Predictive-Sales-Forecaster.git
-cd Predictive-Sales-Forecaster
+git clone https://github.com/ankitscse27/Predictive-Analytics-for-Rural-Business-Growth.git
+cd Predictive-Analytics-for-Rural-Business-Growth
+
 3. Set Up a Virtual Environment (Recommended)
 Bash
 
